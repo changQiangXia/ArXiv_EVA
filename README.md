@@ -2,7 +2,7 @@
 
 > 前沿论文追踪与 NLP 分析系统 // v2.0
 
-![ArXiv Tracker Screenshot](./screenshot.png)
+![ArXiv Tracker Screenshot](https://github.com/changQiangXia/ArXiv_EVA/blob/main/screenshot.PNG)
 
 一个基于 **Node.js + Express** 的 ArXiv 论文追踪服务，采用庵野秀明/EVA 风格 UI 设计，支持论文数据抓取、NLP 预处理、热度分析和阅读管理。
 
